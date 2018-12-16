@@ -9,7 +9,7 @@
 
 .passcode {
     min-width: 30%;
-    margin-bottom: 5%;
+    margin-bottom: 1%;
     height: 50px;
     border: 2px solid red;
     border-radius: 10px;
@@ -33,4 +33,21 @@ h1 {
     text-align: center;
     font-family: monospace;
     font-size: 50px;
+}
+
+.error {
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.body {
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px;
+    width: 50%;
+}
+
+img:hover {
+    cursor: pointer;
 }

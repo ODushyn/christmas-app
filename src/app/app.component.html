@@ -1,13 +1,14 @@
 <div class="passcode-container">
   <ng-container *ngIf="!authorized">
-    <h1 class="label"> Christmas passcode: </h1>
+    <h1 class="label"> Christmas passcode / Різдвяний код: </h1>
     <input class="passcode" [(ngModel)]="passcode" (keyup.enter)="passcodeSubmit()" autofocus>
-
-    <button class="submit-passcode" (click)="passcodeSubmit()">Submit passcode</button>
+    <p class="error" *ngIf="error">The code does not exist / Данний код не існує</p>
   </ng-container>
 
   <ng-container *ngIf="authorized">
-    <h1> Merry Christmas, dear {{name}}!</h1>>
+    <h1>{{greeting}}!</h1>
+    <p *ngIf="notChristYet" class="body">{{bodyText}}</p>
     <div class="video" [innerHtml]="iframe_html"></div>
+    <img src="../assets/back_btn.png" width="80" (click)="onMainPage()">
   </ng-container>
 </div>
