@@ -1,7 +1,8 @@
 export const greetings = {
   'core-renewal': {
     video: 'https://youtu.be/oS-LN88vfAM',
-    name: 'Merry Christmas, dear Core Renewal'
+    name: 'Merry Christmas, dear Core Renewal',
+    lang: 'en'
   },
   'ILNY': {
     video: '',

@@ -33,7 +33,7 @@ export class AppComponent {
       } else {
         this.notChristYet = true;
         if (config.lang === 'en') {
-          this.greeting = 'Hello ' + config.name;
+          this.greeting = 'Hello, ' + config.name;
           this.bodyText = 'We would like to wish you Merry Christmas here. ' +
             'However, Christmas has not come yet. Be patient and come back on December 25th! :)';
         } else {
