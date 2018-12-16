@@ -93,5 +93,10 @@ export const greetings = {
     video: '',
     name: 'Інна',
     lang: 'ua'
+  },
+  'QWER': {
+    video: '',
+    name: 'Богдан',
+    lang: 'ua'
   }
 };
