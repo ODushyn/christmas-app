@@ -15,7 +15,7 @@ export const greetings = {
     lang: 'ua'
   },
   'DSNM': {
-    video: '',
+    video: 'https://youtu.be/3I8nTjmNUHE',
     name: 'Alina',
     lang: 'en'
   },
@@ -30,37 +30,37 @@ export const greetings = {
     lang: 'ua'
   },
   'SNLY': {
-    video: '',
-    name: 'Альона, Ніка, Ніно та бабушка',
+    video: 'https://youtu.be/t_NwbKOzzA8',
+    name: 'Альона, Ніка',
     lang: 'ua'
   },
   'SKFC': {
-    video: '',
+    video: 'https://youtu.be/SarMXsrGkkQ',
     name: 'Катя',
     lang: 'ua'
   },
   'DNDO': {
-    video: '',
+    video: 'https://youtu.be/gbJqFfvn8jU',
     name: 'Наталія Дмитріївна',
     lang: 'ua'
   },
   'HMDP': {
-    video: '',
+    video: 'https://youtu.be/fICXxELnhI8',
     name: 'Мама та Тато',
     lang: 'ua'
   },
   'SMVC': {
-    video: '',
+    video: 'https://youtu.be/8lBpFCVoCrY',
     name: 'Серьожа, тьотя Вєра, дядь Коля та баба Шура',
     lang: 'ua'
   },
   'CTKJ': {
-    video: '',
+    video: 'https://youtu.be/BabHbiyJECE',
     name: 'бабушка Люба, дід Володя та дядя Андрій',
     lang: 'ua'
   },
   'ETOL': {
-    video: '',
+    video: 'https://youtu.be/4mbHaV2ndtQ',
     name: 'Єгорка та Танюшка Одуванчик',
     lang: 'ua'
   },
@@ -75,13 +75,13 @@ export const greetings = {
     lang: 'ua'
   },
   'SINA': {
-    video: '',
+    video: 'https://youtu.be/nTT6Sk7PIxs',
     name: 'Саньочек',
     lang: 'ua'
   },
   'KVAB': {
-    video: '',
-    name: 'Антон та Васелина',
+    video: 'https://youtu.be/qOlD3x2gXqg',
+    name: 'Антон',
     lang: 'ua'
   },
   'VKVR': {
@@ -90,12 +90,12 @@ export const greetings = {
     lang: 'ua'
   },
   'KIPB': {
-    video: '',
+    video: 'https://youtu.be/qxMG2dMiqnA',
     name: 'Інна',
     lang: 'ua'
   },
   'QWER': {
-    video: '',
+    video: 'https://youtu.be/eHWInd2qN80',
     name: 'Богдан',
     lang: 'ua'
   }
