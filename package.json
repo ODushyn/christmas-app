@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "firebase:deploy": "firebase deploy --project merry-christmas-2019"
+    "firebase:deploy": "npm run build:prod && firebase deploy --project merry-christmas-2019"
   },
   "private": true,
   "dependencies": {
