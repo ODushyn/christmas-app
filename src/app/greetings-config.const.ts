@@ -5,12 +5,12 @@ export const greetings = {
     lang: 'en'
   },
   'ILNY': {
-    video: '',
+    video: 'https://youtu.be/Vc7S8XxML9M',
     name: 'Tanya and Vijay, we wish you a Merry Christmas and Happy New Year',
     lang: 'en'
   },
   'TSNY': {
-    video: '',
+    video: 'https://youtu.be/nsRCgKe9CL0',
     name: 'Танюша, вітаємо з Різдвом та Новим Роком',
     lang: 'ua'
   },
@@ -20,12 +20,12 @@ export const greetings = {
     lang: 'en'
   },
   'CWAF': {
-    video: '',
+    video: 'https://youtu.be/KxOQioMegKU',
     name: 'Alyssa, we wish you a Merry Christmas and Happy New Year',
     lang: 'en'
   },
   'YMNY': {
-    video: '',
+    video: 'https://youtu.be/FuSYG3-rr3k',
     name: 'Юля та Нікіта, вітаємо з Різдвом та Новим Роком',
     lang: 'ua'
   },
@@ -65,12 +65,12 @@ export const greetings = {
     lang: 'ua'
   },
   'NDOT': {
-    video: '',
+    video: 'https://youtu.be/RvxfTZg59e4',
     name: 'Настьона, вітаємо з Різдвом та Новим Роком',
     lang: 'ua'
   },
   'ASSE': {
-    video: '',
+    video: 'https://youtu.be/tuOcoIb_GVE',
     name: 'Альона Зірка, вітаємо з Різдвом та Новим Роком',
     lang: 'ua'
   },
@@ -85,7 +85,7 @@ export const greetings = {
     lang: 'ua'
   },
   'VKVR': {
-    video: '',
+    video: 'https://youtu.be/uDBBm-Uf4SQ',
     name: 'Валєрія та Васілій Рубан, вітаємо з Різдвом та Новим Роком',
     lang: 'ua'
   },
